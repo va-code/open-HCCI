@@ -1,0 +1,7 @@
+
+
+autoignition pressure gasoline: 15-23bar?
+autoignition temp gasoline: 247-280 C
+
+autoignition pressure diesel: 15-23bar?
+autoignition temp diesel: 210 C
