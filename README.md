@@ -15,3 +15,7 @@ Since the combustion is not caused by pressure increase but the associated tempe
 1. the added gasses would be expanding and lossing pressure thus making them cool down further possibly negating the objective. It still might work if pressure spikes fast enough that the chamber gasses dont mix much with the compressed air shot.
 2. Testing will be needed t check if a feasible result is attainable.
 3. Some efficiency losses will come from the compressed air cooling down before getting routed to the cylinders
+
+Fixes:
+1.Compress exhaust gasses instead of ambient to get higher temperature and possible pressure gasses before the compressor to save efficiency and reliability of the system
+2. Store the compressed air surrounded by exhaust manifold and insulation to maintain temp.
