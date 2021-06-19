@@ -8,3 +8,10 @@ The design consists of:
 4. Electronically controlling the valves to input a set volume of high pressure air to the combustion chamber after TDC.
 5. The high pressure air then autoignites the chamber.
 6. the gasses exhaust and the valve assembly resets to the predetonation state ready for next cycle.
+
+
+Issues with the design:
+Since the combustion is not caused by pressure increase but the associated temperature increase there are probably problems with the thought in the design:
+1. the added gasses would be expanding and lossing pressure thus making them cool down further possibly negating the objective. It still might work if pressure spikes fast enough that the chamber gasses dont mix much with the compressed air shot.
+2. Testing will be needed t check if a feasible result is attainable.
+3. Some efficiency losses will come from the compressed air cooling down before getting routed to the cylinders
