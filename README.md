@@ -35,6 +35,6 @@ Since the combustion is not caused by pressure increase but the associated tempe
 2. Testing will be needed to check if a feasible result is attainable.
 3. Some efficiency losses will come from the compressed air cooling down before getting routed to the cylinders
 
-Fixes:
+# Fixes?:
 1. Compress exhaust gasses instead of ambient to get higher temperature and possible pressure gasses before the compressor to save efficiency and reliability of the system
 2. Store the compressed air surrounded by exhaust manifold and insulation to maintain temp.
