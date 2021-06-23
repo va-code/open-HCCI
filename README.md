@@ -1,5 +1,5 @@
 # open-HCCI
-The goal of this project is to design and test an open source HCCI Engineas
+The goal of this project is to design and test an open source HCCI Engine as
 easy to retrofit or add to existing designs as a turbo.
 
 # Intro
