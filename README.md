@@ -20,7 +20,7 @@ supply air is closed and the piston is allowed to go through powerstroke and
 exhaust as normal. The valve solenoid is only opened again breifly after the
 next power strokes TDC. 
 
-# The design:
+# The Design:
 1. Adding a high pressure compressor to the engine(probably low volume)(higher pressure than autoignition temp of fuel)
 2. Removing the spark plugs and replacing them with special high pressure valve assemblies
 3. Porting the high pressure compressor output to the valve assemblies
@@ -29,7 +29,7 @@ next power strokes TDC.
 6. the gasses exhaust and the valve assembly resets to the predetonation state ready for next cycle.
 
 
-Issues with the design:
+# Issues with the design:
 Since the combustion is not caused by pressure increase but the associated temperature increase there are probably problems with the thought in the design:
 1. the added gasses would be expanding and lossing pressure thus making them cool down further possibly negating the objective. It still might work if pressure spikes fast enough that the chamber gasses dont mix much with the compressed air shot.
 2. Testing will be needed to check if a feasible result is attainable.
