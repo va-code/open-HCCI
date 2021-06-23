@@ -13,7 +13,7 @@ ignition before TDC. The benefits of an HCCI engines are primarily the extremely
 In this concept the final amount of compression to reach autoignition is
 supplied after TDC by a valve assembly that spikes the pressure above
 autoignition rapidly. The autoignition further increases the pressure above
-the regulated input. Because of this, in a simple design a one way check
+the regulated input. Because of this, in a simple design, a one way check
 valve can be used to stop the combustion gases from going back to the
 solenoid valve and tank. After ignition the solenoid valve connecting to the
 supply air is closed and the piston is allowed to go through powerstroke and
