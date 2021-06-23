@@ -1,7 +1,26 @@
 # open-HCCI
-An open source HCCI Engine design as easy to retrofit to existing engines as a turbo
+The goal of this project is to design and test an open source HCCI Engineas
+easy to retrofit or add to existing designs as a turbo.
 
-The design consists of:
+#Intro
+HCCI, Homogeneous Charge Compression Ignition engines work by compressing a
+well mixed fuel and gas mixture until they autoignite.
+https://en.wikipedia.org/wiki/Homogeneous_charge_compression_ignition
+This can be difficult to achieve due to a typically fixed compression ratio
+of pistons and certain parts of the engine retaining heat and causing
+ignition before TDC. The benefits of an HCCI engines are primarily the extremely lean fuel ratios(more fuel efficient), and lowed emisions.
+
+In this concept the final amount of compression to reach autoignition is
+supplied after TDC by a valve assembly that spikes the pressure above
+autoignition rapidly. The autoignition further increases the pressure above
+the regulated input. Because of this, in a simple design a one way check
+valve can be used to stop the combustion gases from going back to the
+solenoid valve and tank. After ignition the solenoid valve connecting to the
+supply air is closed and the piston is allowed to go through powerstroke and
+exhaust as normal. The valve solenoid is only opened again breifly after the
+next power strokes TDC. 
+
+# The design:
 1. Adding a high pressure compressor to the engine(probably low volume)(higher pressure than autoignition temp of fuel)
 2. Removing the spark plugs and replacing them with special high pressure valve assemblies
 3. Porting the high pressure compressor output to the valve assemblies
