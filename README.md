@@ -3,7 +3,7 @@ The goal of this project is to design and test an open source HCCI Engine as
 easy to retrofit or add to existing designs as a turbo.
 
 # Intro
-HCCI, Homogeneous Charge Compression Ignition engines work by compressing a
+HCCI (Homogeneous Charge Compression Ignition) engines work by compressing a
 well mixed fuel and gas mixture until they autoignite.
 https://en.wikipedia.org/wiki/Homogeneous_charge_compression_ignition
 This can be difficult to achieve due to a typically fixed compression ratio
