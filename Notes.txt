@@ -5,3 +5,8 @@ autoignition temp gasoline: 247-280 C
 
 autoignition pressure diesel: 15-23bar?
 autoignition temp diesel: 210 C
+
+High pressure-temperature solenoid: https://www.mcmaster.com/8117K37/
+Cost: $773.77 per
+Rated for 300psi 400°F
+Kinda prohibitively expensive.
