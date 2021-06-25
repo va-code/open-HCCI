@@ -33,7 +33,8 @@ next power strokes TDC.
 Since the combustion is not caused by pressure increase but the associated temperature increase there are probably problems with the thought in the design:
 1. the added gasses would be expanding and lossing pressure thus making them cool down further possibly negating the objective. It still might work if pressure spikes fast enough that the chamber gasses dont mix much with the compressed air shot.
 2. Testing will be needed to check if a feasible result is attainable.
-3. Some efficiency losses will come from the compressed air cooling down before getting routed to the cylinders
+3. Some efficiency losses will come from the compressed air cooling down before getting routed to the cylinders.
+4. No Simulation or math has been done on whether the mockup stl files can withstand the applied forces for specific materials.
 
 # Fixes?:
 1. Compress exhaust gasses instead of ambient to get higher temperature and possible pressure gasses before the compressor to save efficiency and reliability of the system
